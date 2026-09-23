@@ -7,6 +7,6 @@ PostgreSQL and cloud infrastructure.
 
 ## What I care about
 
-Product engineering · Scalable backend systems · Clear user experiences
+Product engineering · Scalable backend systems · Clear user experiences · AI
 
 www.linkedin.com/in/dikezeko-oliveira · dikezekodagraca04@gmail.com
